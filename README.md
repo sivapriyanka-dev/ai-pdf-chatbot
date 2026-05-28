@@ -1,8 +1,19 @@
 # AI PDF Chatbot 🤖📄
 
-An AI-powered PDF Chatbot built using React, FastAPI, FAISS, Sentence Transformers, and Ollama.
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC)
+![Ollama](https://img.shields.io/badge/Ollama-LocalLLM-black)
+![Phi3](https://img.shields.io/badge/Phi3-Microsoft-orange)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-red)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-Embeddings-yellowgreen)
+![RAG](https://img.shields.io/badge/RAG-PDFChatbot-purple)
+![Deployment](https://img.shields.io/badge/Deployment-Local-success)
 
-Users can upload PDF documents and ask questions about the content using a local AI model.
+An AI-powered PDF chatbot built using React, FastAPI, FAISS, Sentence Transformers, and Ollama.
+
+Upload PDFs and ask questions using local LLMs like Phi3 for fast offline document understanding.
 
 ---
 
